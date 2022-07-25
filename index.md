@@ -13,4 +13,5 @@ git status
 ## Checking commit history
 git log
 
-##
+## Downloades and refrences
+- https://hit-scm.com/
