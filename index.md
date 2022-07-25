@@ -13,5 +13,9 @@ git status
 ## Checking commit history
 git log
 
+## to add git hub remote 
+ -git remote and origine url
+ -git remote -v
+
 ## Downloades and refrences
 - https://hit-scm.com/
